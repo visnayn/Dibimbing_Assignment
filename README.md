@@ -1,19 +1,9 @@
 # Dibimbing_Assignment
 
-Project 1
+Example Project 1
 
-Creating class for evaluation classification and regression. The classes contain function that calculate evaluation metrics for each model
-
-Classification_evaluation contain:
-- Accuracy
-- Precision
-- Recall
-- F1 score
-
-Regression_evaluation contain:
-- RMSE
-- MAE
-- R2
+Creating classes for evaluating classification and regression. 
+The classes contain functions that calculate evaluation metrics for each model
   
 ## Installation
 
